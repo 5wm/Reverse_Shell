@@ -5,7 +5,7 @@
 </h1>
 
 ### Configuration
-
+Go into `includes/config.h` to change all this.
 ```c
 #pragma once
 
