@@ -18,7 +18,7 @@ gcc -static -o reverse_shell main.c
 ```
 ### Running
 ```
-[user@linux]$ nc -lvvp 127.0.0.1 1337
+[user@linux]$ nc -lvvp 1337 -s 127.0.0.1
 -----------------------
 [user@linux]$ ./reverse_shell
 ``` 
