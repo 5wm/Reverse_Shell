@@ -1,3 +1,4 @@
+Reverse Shell For Linux Machines!
 <h1 align="center">
 	<img src="https://img.icons8.com/ios-filled/344/console.png" width="150px"><br>
     Reverse Shell written in C.
@@ -20,6 +21,6 @@ gcc -static -o reverse_shell main.c
 [user@linux]$ nc -lvvp 127.0.0.1 1337
 -----------------------
 [user@linux]$ ./reverse_shell
-```
+``` 
 ### Contributions 🎉
 ###### If you're interested in contributing simply open a pull request!
