@@ -1,6 +1,6 @@
 ### For Linux Machines!
 <h1 align="center">
-	<img src="https://static.thenounproject.com/png/2341691-84.png" width="150px"><br>
+	<img src="https://static.thenounproject.com/png/2341691-200.png" width="150px"><br>
     Reverse Shell written in C.
 </h1>
 
